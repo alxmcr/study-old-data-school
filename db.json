@@ -9,6 +9,36 @@
             "id": "s-002",
             "name": "David",
             "lastname": "Fernandez"
+        },
+        {
+            "id": "s-003",
+            "name": "Juan",
+            "lastname": "Arce"
+        },
+        {
+            "id": "s-004",
+            "name": "Tatiana",
+            "lastname": "Saavedra"
+        },
+        {
+            "id": "s-005",
+            "name": "Boris",
+            "lastname": "Vega"
+        },
+        {
+            "id": "s-006",
+            "name": "Victoria",
+            "lastname": "Castro"
+        },
+        {
+            "id": "s-007",
+            "name": "Juliana",
+            "lastname": "Bustamante"
+        },
+        {
+            "id": "s-008",
+            "name": "Sandra",
+            "lastname": "Jimenez"
         }
     ]
 }
